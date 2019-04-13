@@ -1,0 +1,43 @@
+.fas {
+    width: 140px !important;
+    height: 140px !important;
+    background: black; 
+    -moz-border-radius: 70px; 
+    -webkit-border-radius: 70px; 
+    border-radius: 70px;
+    line-height:9rem;
+    cursor: pointer;
+}
+.crystals{
+    font-size:5rem;
+}
+#crystal1 {
+    color:red;
+}
+#crystal2 {
+    color:green;
+}
+#crystal3 {
+    color:blue;
+}
+#crystal4 {
+    color:orange;
+}
+hr {
+    margin:50px 0px;
+}
+.jumbotron {
+    background: rgba(233, 236, 239, .7);
+}
+body {
+    padding:20px 0px;
+    background:url("../images/bg.jpg") no-repeat top center / cover;
+}
+.card-title {
+    font-size:4rem;
+}
+h1 {
+    font-family: 'Monoton', cursive;
+    text-transform: uppercase;
+    font-size:50px;
+}
